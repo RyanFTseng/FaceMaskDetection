@@ -1,4 +1,6 @@
 # Face Mask Detection  
+Github Link: https://github.com/RyanFTseng/FaceMaskDetection  
+  
 Prerequisites:  
    Python 3.9: https://www.python.org/downloads/release/python-390/  
    NVIDIA CUDA: https://developer.nvidia.com/cuda-downloads  
