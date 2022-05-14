@@ -19,3 +19,5 @@ Running model on image or video:
 
 Running model on youtube video:
 `python detect.py --source "VIDEO_URL" --weights finalModel.pt`
+
+Results are saved in the /data directory
