@@ -1,4 +1,6 @@
 # Face Mask Detection  
+Custom Trained Face Mask Detector 
+
 Github Link: https://github.com/RyanFTseng/FaceMaskDetection  
   
 Prerequisites:  
